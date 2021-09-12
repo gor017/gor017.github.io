@@ -8,13 +8,16 @@ The table below will inform you about my education.
 
 ```markdown
 *2004 - 2012*
-**116 school in Yerevan**
+**116 School in Yerevan**
 
 *2012 - 2015*
-**112 high school in Yerevan**
+**112 High School in Yerevan**
 
 *2015 - 2019*
 **Bachelaor of Marketing in French University in Armenia**
+
+*2021*
+**JavaScipt developer in Armenian Code Academy**
 ```
 ### Languages
 
