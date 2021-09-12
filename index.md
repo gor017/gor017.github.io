@@ -40,7 +40,7 @@ The table below will inform you about my work experience.
 **SEO Specialist in Andava**
 
 *2020 - now*
-**"CEO in PALLADIUM" Commodity & Raw Material Borse**
+**CEO in "PALLADIUM" Commodity & Raw Material Borse**
 
 *2021 - now*
 **Monitoring Specialist in SOFTCONSTRUCT**
