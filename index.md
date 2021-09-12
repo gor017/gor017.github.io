@@ -21,8 +21,6 @@ The table below will inform you about my education.
 ```
 ### Languages
 
-The table below will inform you what languages I know.
-
 Languages | Level
 ----------|----------
 Armenian | Native
